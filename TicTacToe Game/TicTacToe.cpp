@@ -95,6 +95,6 @@ main()
          cout<<"\nThanks For Playing the GAME\nDeveloped By ARUN SAINI\n\n";
     }
     else{
-        cout<<"\n\n\t\t\t\t     \\\\\\\\\\\   BUND MRAA   /////\n\n";
+        cout<<"\n\n\t\t\t\t     \\\\\\\\\\\   Try Next Time   /////\n\n";
     }
 }
